@@ -1,5 +1,3 @@
-#summary One-sentence summary of this page.
-
 = Introduction =
 
 The goal is to let Android Phones to establish a communication with a Nintendo64 and use a TouchPad like a real in our N64 console.
