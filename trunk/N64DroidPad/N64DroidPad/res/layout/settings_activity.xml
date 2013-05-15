@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Opcions">
+        
+        <CheckBoxPreference
+            android:key="op1"
+            android:title="@string/vibration_option"
+            android:summary="At least " />
+        
+        <ListPreference
+            android:key="op2"
+            android:title="@string/vibration_title"
+            android:summary="@string/vibration_summary"
+            android:dialogTitle="@string/vibration_title"
+            android:entries="@array/dif_name"
+            android:entryValues="@array/dif_key" />
+        
+        <CheckBoxPreference
+            android:key="op3"
+            android:title="@string/pad_option"
+            android:summary="At least " />
+        
+        <CheckBoxPreference
+            android:key="op4"
+            android:title="@string/joystick_option"
+            android:summary="At least " />
+    
+        
+    </PreferenceCategory>
+</PreferenceScreen>
