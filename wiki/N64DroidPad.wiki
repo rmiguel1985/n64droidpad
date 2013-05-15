@@ -1,13 +1,37 @@
 = Introduction =
+This Android App will send button clicked commands to N64BlueToothServer.
 
+<br><br>
 = Screens =
 
-== Main Screen ==
-https://code.google.com/p/n64droidpad/source/browse/wiki/images/N64DroidPad/image01.png
+== 1.Main Screen ==
+https://n64droidpad.googlecode.com/svn/wiki/images/N64DroidPad/image01.png
 
 
-== Options Screen ==
-https://code.google.com/p/n64droidpad/source/browse/wiki/images/N64DroidPad/image00.png
+=== References ===
+  # *L* Button  -  Ref 1.1
+  # *Start* Button  -  Ref 1.2
+  # *R* Button  -  Ref 1.3
+  # *Z* Button  -  Ref 1.4
+  # *Joytick*  -  Ref 1.5
+  # *Analog Cross*  -  Ref 1.6
+  # *A* Button  -  Ref 1.7
+  # *B* Button  -  Ref 1.8
+  # *C* Buttons  -  Ref 1.9
+  # *Options* Button  -  Ref 1.10
+
+<br>
+== 2.Options Screen ==
+https://n64droidpad.googlecode.com/svn/wiki/images/N64DroidPad/image00.png
+
+=== References ===
+  # Enable Vibration  -  Ref 2.1
+  # Enable Joystick  -  Ref 2.2
+  # Enable Cross  -  Ref 2.3
+  # Vibration Options  -  Ref 2.5
+    * 4.1 Selectable Vibration Options - Ref 2.5.1
+
+<br><br>
 = Features Reference=
 
 ==1.Pad Screen==
@@ -61,3 +85,6 @@ https://code.google.com/p/n64droidpad/source/browse/wiki/images/N64DroidPad/imag
 	    * Soft
 	    * Hard
 	    * Medium
+<br><br>
+= Credits =
+  * <a href="http://code.google.com/p/mobile-anarchy-widgets/">mobile-anarchy-widgets (For the amazing Joystick Widget)</a>
