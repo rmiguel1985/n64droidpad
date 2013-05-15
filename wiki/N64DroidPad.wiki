@@ -1,5 +1,5 @@
 = Introduction =
-This Android App will send button clicked commands to N64BlueToothServer.
+This Android App will send button clicked commands to N64BluetoothServer.
 
 <br><br>
 = Screens =
