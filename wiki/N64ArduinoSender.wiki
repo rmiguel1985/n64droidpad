@@ -1,5 +1,14 @@
 = Introduction =
+Software will catch commands from N64BlueToothServer and wait for last pressed buttons events requests from Nintendo64.
+
+= Schema = 
+https://n64droidpad.googlecode.com/svn/wiki/images/N64ArduinoSender/image00.png
+
+== References ==
+  # N64 Signal port  -  Ref 1.2
+  # N64 Ground  -  Ref 1.1
+  # Arduino Ground  -  Ref 1.1
+  # Arduino Digital Pin  -  Ref 1.2
 
 
 = Features Reference =
-
