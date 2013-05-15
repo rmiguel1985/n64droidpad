@@ -10,5 +10,9 @@ https://n64droidpad.googlecode.com/svn/wiki/images/N64ArduinoSender/image00.png
   # Arduino Ground  -  Ref 1.1
   # Arduino Digital Pin  -  Ref 1.2
 
-
+<br><br>
 = Features Reference =
+
+<br><br>
+= Credits =
+  * <a href="http://fritzing.org/">Fritzing (Schematich mockup builder) </a>
