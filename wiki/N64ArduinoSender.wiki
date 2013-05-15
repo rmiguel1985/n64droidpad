@@ -1,5 +1,5 @@
 = Introduction =
-Software will catch commands from N64BlueToothServer and wait for last pressed buttons events requests from Nintendo64.
+Software will catch commands from N64BluetoothServer and wait for last pressed buttons events requests from Nintendo64.
 
 = Schema = 
 https://n64droidpad.googlecode.com/svn/wiki/images/N64ArduinoSender/image00.png
