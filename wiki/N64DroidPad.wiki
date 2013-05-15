@@ -1,11 +1,53 @@
-= Introduction =
+= Features Reference=
 
-The goal is to let Android Phones to establish a communication with a Nintendo64 and use a TouchPad like a real in our N64 console.
+==1.Pad Screen==
+
+	* *Ref 1.1*<br>
+	On click a L command must be send to N64. Optionally (depending on configuration) there will be vibration.
+
+	* *Ref 1.2*<br>
+	On click a Start command must be send to N64. Optionally (depending on configuration) there will be vibration
+
+	* *Ref 1.3*<br>
+	On click a R command must be send to N64. Optionally (depending on configuration) there will be vibration
+
+	* *Ref 1.4*<br>
+	On click a Z command must be send to N64. Optionally (depending on configuration) there will be vibration
+
+	* *Ref 1.5*<br>
+	On touch a position (based on X and Y Axys) command could  be send to N64 (depending on configuration, enabled/disabled). Optionally (depending on configuration) there will be vibration.
+
+	* *Ref 1.6*<br>
+	On click a position command (based on button Axys) could  be send to N64 (depending on configuration, enabled/disabled). Optionally (depending on configuration) there will be vibration.
+
+	* *Ref 1.7*<br>
+	On click a A command must be send to N64. Optionally (depending on configuration) there will be vibration
+
+	* *Ref 1.8*<br>
+	On click a B command must be send to N64. Optionally (depending on configuration) there will be vibration
+
+	* *Ref 1.9*<br>
+	On click a C command (left - right - down - up) must be send to N64. Optionally (depending on configuration) there will be vibration
+
+	* *Ref 1.10*<br>
+	On click options screen will be shown
 
 
-= Details =
+== 2.Options Screen ==
 
-Project will have three parts:
-  * An Android app that will simulate N64 Pad (N64DroidPad)
-  * A Bluetooth Server, to communicate Android app with Arduino (N64BluetoothServer)
-  * An Arduino app to send commands to N64 (N64ArduinoSender)
+	* *Ref 2.1*<br>
+	Enable/Disable vibration.
+
+	* *Ref 2.2*<br>
+	Enable/Disable joystick.
+
+	* *Ref 2.3*<br>
+	Enable/Disable cross.
+
+	* *Ref 2.4*<br>
+	Floating option menu will be shown
+	  * Ref 2.4.1
+	  A floating option window will show these presets:
+	    * Soft
+	    * Hard
+	    * Medium
