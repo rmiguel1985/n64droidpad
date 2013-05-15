@@ -1,3 +1,13 @@
+= Introduction =
+
+= Screens =
+
+== Main Screen ==
+https://code.google.com/p/n64droidpad/source/browse/wiki/images/N64DroidPad/image01.png
+
+
+== Options Screen ==
+https://code.google.com/p/n64droidpad/source/browse/wiki/images/N64DroidPad/image00.png
 = Features Reference=
 
 ==1.Pad Screen==
