@@ -88,3 +88,6 @@ https://n64droidpad.googlecode.com/svn/wiki/images/N64DroidPad/image00.png
 <br><br>
 = Credits =
   * <a href="http://code.google.com/p/mobile-anarchy-widgets/">mobile-anarchy-widgets (For the amazing Joystick Widget)</a>
+  * <a href="http://pencil.evolus.vn/">Pencil (Software MockUp builder)</a>
+
+http://pencil.evolus.vn/
