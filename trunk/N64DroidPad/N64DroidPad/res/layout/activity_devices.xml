@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.03"
+        android:background="@color/lst_header"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:text="@string/paired_title"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ListView
+        android:id="@+id/devices_lst_paired"
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        android:layout_weight="0.05" >
+
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@color/lst_header"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/devices_txt_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="@string/discover_title"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:id="@+id/device_btn_refresh"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="91dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1.41"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/refresh" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/devices_lst"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:layout_weight="0.02" >
+
+    </ListView>
+
+</LinearLayout>
