@@ -10,6 +10,7 @@ Project will have three parts:
   * An Android app that will simulate N64 Pad N64DroidPad
   * A Bluetooth Server, to communicate Android app with Arduino 
   * An Arduino app to send commands to N64 N64ArduinoSender
+
 Refer to wiki for more information  [n64droidpad Wiki](https://github.com/rmiguel1985/n64droidpad/wiki)
 
 ## Credits 
