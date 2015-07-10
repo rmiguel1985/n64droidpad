@@ -1,0 +1,12 @@
+# Introduction #
+
+This Bluetooth server will catch all incoming commands from N64DroidPad Android app and send it to the N64ArduinoSender.
+
+
+# Features Reference #
+
+  * **Ref - 1**
+> Software must be able to catch and store commands from Bluetooth.
+
+  * **Ref - 2**
+> Software must be able to send commands to N64ArduinoSender
